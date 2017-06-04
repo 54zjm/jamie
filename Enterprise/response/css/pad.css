@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+/* header */
+
+.header{width: 20%;margin-bottom: 2%;}
+.header_up input,.header_down{display: none;}
+.header img{width: 100%;height: auto;}
+h1{margin-top: 2.6%;}
+.header_up dl{float: right;}
+.header_right{width: 75%;float: right;}
+.header_up{float: right;padding-top: 9px;height: auto;}
+
+
+/* con */
+.con_upin h3{font-size: 15px;}
+.con_upin p{font-size: 13px;}
+
+/* footer */
+.footer_up .foot_main dd{display: none;}
+.footer_up .foot_main dl{padding-top: 0;height: 50px;line-height: 50px;width: 100%;display: block;padding-left: 20px;background: #ccc;margin-bottom: 10px;}
+.footer_up .foot_main h3{position: relative;}
+.footer_up .foot_main h3:after{ content:""; width: 10px; height: 10px; border-top: 1px solid #333; border-right: 1px solid #333; position: absolute; right: 15px; top: 20px; transform: rotate(45deg);}
+.footer_up .foot_main .contect2{display: none;}
+.foot_main input{margin: 15px 0 30px 20px;}
+.foot_main a{margin-top: 12px;}
+
+
